@@ -1,5 +1,6 @@
 #funtion to find thematic words
-import math,re
+import math
+import re
 import nltk
 from collections import Counter
 
